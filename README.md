@@ -49,8 +49,8 @@ By answering these questions, the project provides insights into editorial focus
 ### **Instructions**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/INF6027-News-Analysis.git
-   cd INF6027-News-Analysis
+   git clone https://github.com/Veenkatacharan/INF6027.git
+   cd INF6027
    ```
 
 2. **Install Required R Packages**:
