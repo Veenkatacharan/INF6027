@@ -1,5 +1,6 @@
 
-# **News Category Coverage Analysis**
+# **Analysis of News Coverage Patterns Across Categories and Sources![image](https://github.com/user-attachments/assets/5a1afa42-0036-46d3-a1e9-58122c669b39)
+**
 
 ## **Project Overview**
 This project examines the coverage of hierarchical news categories across various news sources using the **MN-DS-news-classification.csv** dataset. The analysis aims to identify editorial patterns, disparities in coverage, and hierarchical category priorities among publishers.
