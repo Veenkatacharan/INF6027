@@ -33,9 +33,9 @@ By answering these questions, the project provides insights into editorial focus
 ## **Project Structure**
 - **Data**: Cleaned dataset saved as `Filtered_News_Dataset.csv`.
 - **Scripts**:
-  - `data_cleaning.R`: Preprocessing and cleaning the dataset.
-  - `analysis.R`: Analyzing category coverage and summarizing results.
-  - `visualizations.R`: Creating visualizations (bar charts, pie charts).
+  - `Data_Cleaning.R`: Preprocessing and cleaning the dataset.
+  - `Analysis.R`: Analyzing category coverage and summarizing results.
+  - `Visualisations.R`: Creating visualizations (bar charts, pie charts).
 - **Outputs**: Visualizations and summary tables.
 
 ---
@@ -60,12 +60,12 @@ By answering these questions, the project provides insights into editorial focus
    ```
 
 3. **Run the Preprocessing Script**:
-   - Open `data_cleaning.R` in RStudio.
+   - Open `Data_Cleaning.R` in RStudio.
    - Run the script to clean the dataset and save the output as `Filtered_News_Dataset.csv`.
 
 4. **Run the Analysis and Visualization Scripts**:
-   - Open `analysis.R` and run the script to generate summary tables.
-   - Open `visualizations.R` and run the script to create the bar and pie charts.
+   - Open `Analysis.R` and run the script to generate summary tables.
+   - Open `Visualisations.R` and run the script to create the bar and pie charts.
 
 ---
 
@@ -80,8 +80,3 @@ By answering these questions, the project provides insights into editorial focus
 - Aggregate coverage by hierarchical categories (`category_level_1` and `category_level_2`).
 
 ---
-
-## **References**
-- **Dataset**: MN-DS-news-classification.csv.
-- Boykoff, M. T. (2011). *Who Speaks for the Climate?*
-- Pew Research Center. (2020). *News Consumption Across Social Media in 2020*.
